@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Yuan's Portfolio</title>
+        <title>Yuan Portfolio</title>
         <meta name='description' content='오늘도 빡코딩' />
         <link rel='icon' href='/favicon.ico' />
       </Head>

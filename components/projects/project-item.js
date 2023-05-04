@@ -1,4 +1,4 @@
-import Image from 'next/image';
+import Image from 'next/legacy/image';
 
 export default function ProjectItem({ data }) {
   const projectTitle = data.properties.Name.title[0].plain_text;
@@ -36,8 +36,8 @@ export default function ProjectItem({ data }) {
         className='rounded-t-xl'
         src={imgSrc}
         alt='cover image'
-        width='700'
-        height='200'
+        width='500%'
+        height='430%'
       />
       <div className='p-4 flex flex-col'>
         <h1 className='text-2xl font-bold'>{projectTitle}</h1>

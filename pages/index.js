@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Yuan's 포트폴리오</title>
+        <title>Yuan's Portfolio</title>
         <meta name='description' content='오늘도 빡코딩' />
         <link rel='icon' href='/favicon.ico' />
       </Head>

@@ -11,7 +11,7 @@ export default function Hero() {
         </h1>
         <p className='mb-8 leading-relaxed'>
           즉시 결과물을 볼 수 있고, 지속적으로 공부하며 기술을 향상시킬 수 있는
-          프론트엔드 개발에 매력을 느껴 시작하게 되었습니다.
+          개발에 매력을 느껴 공부를 시작하게 되었습니다.
         </p>
         <div className='flex justify-center'>
           <Link href='/projects'>

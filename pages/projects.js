@@ -9,7 +9,7 @@ export default function Projects({ projects }) {
     <Layout>
       <div className='flex flex-col items-center justify-center min-h-screen px-5 py-24 mb-10'>
         <Head>
-          <title>빡코딩 포트폴리오</title>
+          <title>김유안 포트폴리오</title>
           <meta name='description' content='오늘도 빡코딩' />
           <link rel='icon' href='/favicon.ico' />
         </Head>
